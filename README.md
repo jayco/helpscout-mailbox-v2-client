@@ -1,5 +1,7 @@
 # Helpscout::Mailbox::V2::Client
 
+[![Build status](https://badge.buildkite.com/da63414ff9e780a25c9b3766f75c104b77db4d5bdedda836f8.svg)](https://buildkite.com/jayco/helpscout-mailbox-v2-client)
+
 Super simple REST client for the HelpScout V2 Mailbox API
 
 It uses the following gems to work with HelpScout
